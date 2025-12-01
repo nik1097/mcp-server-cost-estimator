@@ -1,4 +1,4 @@
-# mcp-server-cost-estimator
+# mcp-server-token-cost-estimator
 
 Token cost estimator for MCP (Model Context Protocol) servers.
 
